@@ -1,0 +1,3 @@
+# Resumo — Exercícios 101 a 110
+
+Neste grupo, pratiquei comparações e decisões com números e textos. Usei condições para verificar se um valor está dentro de um intervalo e para classificá-lo como maior, menor ou igual a um limite. Também calculei idade a partir dos anos informados e validei dados de entrada. Nos exercícios com texto, comparei sexo e idade conforme uma regra, classifiquei siglas de estados, verifiquei a primeira letra e o prenome, considerei variações de maiúsculas e minúsculas e organizei nomes em ordem alfabética. O grupo termina com a comparação de dois números para identificar se são iguais ou diferentes.
